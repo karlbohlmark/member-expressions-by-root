@@ -1,0 +1,16 @@
+{
+  "name": "member-expressions-by-root",
+  "repo": "karlbohlmark/member-expressions-by-root",
+  "description": "Extract member expressions by root identifier",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {
+    "karlbohlmark/astw": "*"
+  },
+  "development": {},
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ]
+}
