@@ -2,10 +2,10 @@
   "name": "member-expressions-by-root",
   "repo": "karlbohlmark/member-expressions-by-root",
   "description": "Extract member expressions by root identifier",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "keywords": [],
   "dependencies": {
-    "karlbohlmark/astw": "*"
+    "karlbohlmark/astw": "0.0.2"
   },
   "development": {},
   "license": "MIT",
